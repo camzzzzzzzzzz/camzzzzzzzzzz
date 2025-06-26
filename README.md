@@ -14,6 +14,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=camzzzzzzzzzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![Snake animation](https://github.com/camzzzzzzzzzz/snk/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=camzzzzzzzzzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
